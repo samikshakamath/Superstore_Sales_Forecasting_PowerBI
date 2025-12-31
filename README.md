@@ -1,4 +1,11 @@
 # Superstore_Sales_Analysis_PowerBI
+
+## Dashboard Overview
+![Dashboard Overview](images/dashboard_overview.png)
+
+## Detailed Analysis View
+![Detailed Analysis View](images/dashboard_forecast.png)
+
 **Author:** Samiksha Kamath  
 **Date Created:** January 22nd 2025
 
