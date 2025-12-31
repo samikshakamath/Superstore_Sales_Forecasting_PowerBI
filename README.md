@@ -1,10 +1,7 @@
 # Superstore_Sales_Analysis_PowerBI
 
-## Dashboard Overview
-![Dashboard Overview](images/dashboard_overview.png)
-
-## Detailed Analysis View
-![Detailed Analysis View](images/dashboard_forecast.png)
+<img src="dashboard_ov.png" alt="Sales Performance Tableau Dashboard" width="1000"/>
+<img src="dashboard_forecast.png" alt="Sales" width="1000"/>
 
 **Author:** Samiksha Kamath  
 **Date Created:** January 22nd 2025
